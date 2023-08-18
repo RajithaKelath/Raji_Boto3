@@ -1,0 +1,94 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US",
+      "rank": 1
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "rank": 10
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "rank": 6
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "rank": 13
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "rank": 4
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "rank": 7
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "rank": 3
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "rank": 2
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "rank": 12
+    },
+        {
+      "name": "Italy",
+      "code": "IT",
+      "rank": 20
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "rank": 19
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "rank": 14
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "rank": 9
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "rank": 11
+    },
+        {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "rank": 22
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "rank": 26
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "rank": 27
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "rank": 28
+    }
+  ]
+}
